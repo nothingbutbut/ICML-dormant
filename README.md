@@ -1,1 +1,1 @@
-# ICML-dormant
+# Neuron Dormant Ratio Experiment
