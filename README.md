@@ -1,5 +1,4 @@
 # Neuron Dormant Ratio Experiment
-# Neuron Dormant Ratio Experiment
 <p>
   <img src="https://github.com/nothingbutbut/ICML-dormant/blob/main/HalfCheetah-v4-dormant.png" alt="h1-run" style="width:49%; float:left; margin-right:1%;">
   <img src="https://github.com/nothingbutbut/ICML-dormant/blob/main/humanoid%20walk-dormant.png" alt="h1-walk" style="width:49%; float:left; margin-left:1%;">
